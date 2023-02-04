@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **miteshaudichya123@gmail.com**
 
-<img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
