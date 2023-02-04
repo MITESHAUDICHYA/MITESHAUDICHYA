@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Mitesh Audichya</h1>
+<h1 align="center">Hi, I'm Mitesh Audichya🙂</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 - 🌱 I’m currently learning **Web Dev**
 
-- 📫 How to reach me **miteshaudichya123@gmail.com**
+- 📫 To reach me- **miteshaudichya123@gmail.com**
 
 <img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
