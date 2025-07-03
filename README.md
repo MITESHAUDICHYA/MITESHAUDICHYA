@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mitesh Audichya🙂</h1>
+<h1 align="center">Hi, I'm Mitesh Audichya</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 - 📫 To reach me- **miteshaudichya123@gmail.com**
